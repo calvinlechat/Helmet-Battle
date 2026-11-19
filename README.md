@@ -41,6 +41,20 @@ Les commandes par défaut (consultables et configurables via le menu **Options**
 * **Python 3** installé sur la machine
 * La bibliothèque **Pyxel**
 
+
 ### 1. Installer Pyxel
 ```bash
 pip install pyxel
+```
+
+### 2. Récupérer le projet
+
+```bash
+git clone [https://github.com/calvinlechat/Helmet-Battle.git](https://github.com/calvinlechat/Helmet-Battle.git)
+```
+
+### 3. Lancer le jeu
+
+```bash
+cd Helmet-Battle
+python Helmet-Battle.py
