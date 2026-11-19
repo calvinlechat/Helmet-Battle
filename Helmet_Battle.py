@@ -32,7 +32,7 @@ class Joueur:
         self.force = 1
         self.cooldown_epee = 0
 
-        self.argent = 50
+        self.argent = 0
         
         self.debut_saut = self.y
         self.debut_saut_x = self.x
@@ -845,7 +845,7 @@ class Coffre:
         if self.etat == "ouvert" and abs(joueur.x_milieu() - (self.x + 8)) < 10 and abs(joueur.y_milieu() - (self.y + 8)) < 10 and pyxel.btnr(pyxel.KEY_E) and self.compteur_attente == None:
             self.compteur_attente = 3
             if self.type ==0:               # or
-                joueur.argent += 30
+                joueur.argent += 10
             elif self.type == 1:               # force
                 joueur.force += 0.25
             elif self.type == 2:               # pv
