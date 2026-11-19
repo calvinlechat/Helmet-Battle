@@ -34,5 +34,3 @@ Les commandes par défaut (consultables et configurables via le menu **Options**
 
 * **Technologie** : Python + [Pyxel](https://github.com/kitao/pyxel)
 * **Univers / Ressources** : basé sur le fichier `pyxres` n°2. Projet initialement réalisé pour la **Nuit du Code 2025** (Terminale, 2024–2025) ; les sprites et ressources d'origine proviennent des assets fournis par l'événement.
-* **Technologie** : Python + [Pyxel](https://github.com/kitao/pyxel)
-* **Univers / Ressources** : basé sur le fichier `pyxres` n°2. Projet initialement réalisé pour la **Nuit du Code 2025** (Terminale, 2024–2025) ; les sprites et ressources d'origine proviennent des assets fournis par l'événement.
